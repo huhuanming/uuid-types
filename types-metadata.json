@@ -1,0 +1,21 @@
+{
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [
+        "node"
+    ],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "2",
+    "libraryMinorVersion": "0",
+    "libraryName": "uuid v2.0.3",
+    "typingsPackageName": "uuid",
+    "kind": "ProperModule",
+    "globals": [
+        "uuid"
+    ],
+    "declaredModules": [
+        "uuid"
+    ],
+    "files": [
+        "index.d.ts"
+    ]
+}
